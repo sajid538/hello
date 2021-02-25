@@ -1,5 +1,6 @@
 //first line library
 #include <stdio.h>
+//main file
 int main()
 	//programs starts {
 	printf("hello world");
